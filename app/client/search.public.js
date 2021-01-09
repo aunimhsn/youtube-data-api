@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyAevHpYd7Hijsuf34ecXQUSWEIxTMq_dqA';
+const API_KEY = 'your_api_key';
 const PROXY = 'https://cors-anywhere.herokuapp.com';
 
 window.youtubeSearch = () => {
