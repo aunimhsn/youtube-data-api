@@ -5,6 +5,8 @@ window.youtubeSearch = () => {
     return {
         videos: [],
         newSearch: '',
+        isVideoPlayerVisible: false,
+        currentVideoId: '', 
 
         search() {
             this.videos = [];
